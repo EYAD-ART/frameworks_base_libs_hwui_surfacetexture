@@ -2,7 +2,6 @@ diff --git a/libs/hwui/surfacetexture/ImageConsumer.h b/libs/hwui/surfacetexture
 index 2fdece9..3e2a91a 100644
 --- a/libs/hwui/surfacetexture/ImageConsumer.h
 +++ b/libs/hwui/surfacetexture/ImageConsumer.h
-
 @@ -26,11 +26,6 @@
  #include <gui/BufferItem.h>
  #include <system/graphics.h>
