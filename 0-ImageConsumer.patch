@@ -2,7 +2,6 @@ diff --git a/libs/hwui/surfacetexture/ImageConsumer.cpp b/libs/hwui/surfacetextu
 index bae616b..17ee17d 100644
 --- a/libs/hwui/surfacetexture/ImageConsumer.cpp
 +++ b/libs/hwui/surfacetexture/ImageConsumer.cpp
-
 @@ -71,13 +71,16 @@
      void makeImage(sp<GraphicBuffer>& graphicBuffer, android_dataspace dataspace,
                     GrContext* context);
